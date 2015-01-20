@@ -1,0 +1,30 @@
+button {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  vertical-align: center;
+  font-size: 24px;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 15px;
+}
+
+.calculator {
+  text-align: center;
+  width:280px;
+  height: 330px;
+  text-align: center;
+  background-color: black;
+  margin: auto;
+
+}
+
+#displaynumber {
+  background-color: #788596;
+  width: 240px;
+  height: 50px;
+  padding-top:10px;
+  font-size: 24px;
+  margin: 5px;
+  display: inline-block;
+}
